@@ -1,1 +1,1 @@
-The Karatsuba algorithm is a fast multiplication algorithm that was discovered by Anatolii Alexeevitch Karatsuba in 1960. It is a divide-and-conquer algorithm that reduces the multiplication of two n-digit numbers to at most three multiplications of n/2-digit numbers, in addition to some extra additions and subtractions. This leads to a faster multiplication algorithm than the traditional long multiplication algorithm, especially for large numbers.
+
